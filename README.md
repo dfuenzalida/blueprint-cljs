@@ -7,8 +7,7 @@ Browser demo for [shadow-cljs](https://github.com/thheller/shadow-cljs)
 Run in developmeent:
 
 ```bash
-yarn
-(mkdir -p target && cp assets/index.html target/)
+yarn run html
 yarn shadow-cljs watch app
 ```
 
