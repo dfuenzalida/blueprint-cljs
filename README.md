@@ -1,8 +1,13 @@
 
-Browser demo for [shadow-cljs](https://github.com/thheller/shadow-cljs)
+BlueprintJS demo using [shadow-cljs](https://github.com/thheller/shadow-cljs)
 ----
 
-### Develop
+### Screenshot
+
+![blueprintjs-cljs](https://user-images.githubusercontent.com/208068/66889581-cecaad00-ef97-11e9-9872-9a09a2b99d26.png)
+
+
+### Development
 
 Run in developmeent:
 
