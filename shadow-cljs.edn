@@ -1,6 +1,5 @@
-
 {:source-paths ["src"]
- :dependencies []
+ :dependencies [[reagent "0.8.1"]]
  :dev-http {8080 "target/"}
  :builds {:app {:output-dir "target/"
                 :asset-path "."
