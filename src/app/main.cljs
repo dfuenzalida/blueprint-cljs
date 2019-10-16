@@ -1,6 +1,4 @@
-
-(ns app.main
-  (:require [app.lib :as lib]))
+(ns app.main)
 
 (def a 1)
 
@@ -10,5 +8,4 @@
   (println "[main]: loading"))
 
 (defn reload! []
-  (println "[main] reloaded lib:" lib/c lib/d)
   (println "[main] reloaded:" a b))
